@@ -1,4 +1,4 @@
-Typescript - Clean Architecture
+### Typescript - Clean Architecture
 Proyecto intentando seguir los principios de arquitectura limpia y SOLID. Es una aplicacion simple donde puedes publicar post que deben tener al menos una imagen y utiliza jwt como mecanismo de autenticacion.
 
 La aplicacion tiene tres capas principales:
